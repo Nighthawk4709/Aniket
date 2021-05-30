@@ -52,6 +52,18 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 ## Contact me:
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)<a href = "https://www.linkedin.com/in/aniket-tiwari-0798901a1/">&nbsp;
+<a href="https://www.linkedin.com/in/aniket-tiwari-0798901a1/">
+  <img align="left" alt="Aniket Tiwari | LinkedIN" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/unnamed.png" />
+</a>
+<a href="mailto:bt19ece064@iiitn.ac.in">
+  <img align="left" alt="Aniket Tiwari | Gmail" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/gmail-logo-16.png" />
+</a>
+<a href="https://stackoverflow.com/users/15860938/aniket-tiwari">
+  <img align="left" alt="Aniket Tiwari | StackOverFlow" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/logo-stackoverflow.png" />
+</a>
+<a href="https://www.instagram.com/aniket_4709/">
+  <img align="left" alt="Aniket Tiwari | Instagram" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/72a3d9408d41335f39e9f014dc35cf44.jpg" />
+</a>
+
 
 
