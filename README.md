@@ -10,7 +10,7 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 - 📫 How to reach me: bt19ece064@iiitn.ac.in 
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new1.gif" width="300" height="200" />
-<br />
+
 
 ### 🛠 &nbsp; Skills and Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -27,10 +27,10 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
 
-<br />
+
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
-<br/>
+
 ## 📈 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthawk4709&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,7 +39,7 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 ![Profile views](https://gpvc.arturio.dev/Nighthawk4709) 
 
-<br/>
+
 
 ## Contact me:
 
