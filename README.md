@@ -9,20 +9,17 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 - 🌱 I’m currently pursuing :Btech in Electronics and Communications from IIITN
 - 📫 How to reach me: bt19ece064@iiitn.ac.in 
 
-<img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
-
 <br />
 
 ### 🛠 &nbsp; Skills and Tech Stack:
-
-![C](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/c-programming.png)&nbsp;
-![C++](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/c%2B%2B.jpg)&nbsp;
-![Flutter](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/flutter-logo-sharing.png)&nbsp;
-![Firebase](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/firebase.png)&nbsp;
-![Python](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/python.jpg)&nbsp;
-![Kotlin](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/kotlin.jpg)&nbsp;
-![Dart](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/dart.png)&nbsp;
-![NodeJs](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/1280px-Node.js_logo.svg.png)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 <br />
 
