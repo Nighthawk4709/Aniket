@@ -26,7 +26,9 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
-</br>
+
+
+<br />
 
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
