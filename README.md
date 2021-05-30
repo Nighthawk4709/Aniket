@@ -40,4 +40,4 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nighthawk4709&theme=radical&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Nighthawk4709&theme=radical&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/Nighthawk4709)  
