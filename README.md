@@ -11,7 +11,8 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new1.gif" width="300" height="200" />
 
-<br/>
+<br />
+
 ### 🛠 &nbsp; Skills and Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -23,18 +24,18 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
 
 
-<br/>
+<br />
 
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
 
-<br/>
-<br/>
+<br />
+<br />
 
 ## 📈 Stats:
 
