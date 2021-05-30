@@ -11,7 +11,7 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 <img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new1.gif" width="300" height="200" />
 
-
+<br/>
 ### 🛠 &nbsp; Skills and Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -26,10 +26,13 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
+</br>
 
 
+<img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
 
-
+</br>
+</br>
 
 ## 📈 Stats:
 
@@ -38,7 +41,6 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nighthawk4709&theme=radical&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Nighthawk4709) 
-<img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
 
 
 
