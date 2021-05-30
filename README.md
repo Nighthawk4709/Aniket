@@ -35,10 +35,12 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
+
 <br />
 
 ## 📈 Stats:
+
+<img align="right" alt="GIF" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/new.gif" width="300" height="200" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthawk4709&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
