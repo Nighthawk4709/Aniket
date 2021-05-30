@@ -59,10 +59,10 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
   <img align="left" alt="Aniket Tiwari | Gmail" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/gmail-logo-16.png" />
 </a>
 <a href="https://stackoverflow.com/users/15860938/aniket-tiwari">
-  <img align="left" alt="Aniket Tiwari | StackOverFlow" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />
+  <img align="left" alt="Aniket Tiwari | StackOverFlow" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/stackoverflow-2752065-2284882.png" />
 </a>
 <a href="https://www.instagram.com/aniket_4709/">
-  <img align="left" alt="Aniket Tiwari | Instagram" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edigitalagency.com.au%2Finstagram%2Fnew-instagram-logo-png%2F&psig=AOvVaw1ouPmGRPW19qZNfK0eJ7hL&ust=1622434928070000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjUrp_H8PACFQAAAAAdAAAAABAZ" />
+  <img align="left" alt="Aniket Tiwari | Instagram" width="30px" src="https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/instagram-logo-041EABACE1-seeklogo.com.png" />
 </a>
 
 
