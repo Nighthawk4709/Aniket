@@ -9,6 +9,9 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 - 🌱 I’m currently pursuing :Btech in Electronics and Communications from IIITN
 - 📫 How to reach me: bt19ece064@iiitn.ac.in 
 
+<img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
+
+<br />
 
 ### 🛠 &nbsp; Skills and Tech Stack:
 
@@ -21,6 +24,7 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 ![Dart](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/dart.png)&nbsp;
 ![NodeJs](https://github.com/Nighthawk4709/Nighthawk4709/blob/main/icons/1280px-Node.js_logo.svg.png)&nbsp;
 
+<br />
 
 ## Contact me:
 
