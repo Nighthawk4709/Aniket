@@ -52,6 +52,6 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 ## Contact me:
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)<a href = "https://www.linkedin.com/in/aniket-tiwari-0798901a1/">&nbsp;
+(https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)<a href = "https://www.linkedin.com/in/aniket-tiwari-0798901a1/">&nbsp;
 
 
