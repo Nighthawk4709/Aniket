@@ -31,13 +31,13 @@ I am Aniket Tiwari an Android developer, a competitive coder and a learning enth
 
 ## Contact me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nighthawk4709)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aniket-tiwari-0798901a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/aniket_4709//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15860938/aniket-tiwari)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/Nighthawk4709)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aniket-tiwari-0798901a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/https://www.instagram.com/aniket_4709//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='35'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15860938/aniket-tiwari)  
 
 
-### 📈 Stats
+## 📈 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthawk4709&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nighthawk4709&theme=radical&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Nighthawk4709)  
+![Profile views](https://gpvc.arturio.dev/Nighthawk4709&theme=radical&show_icons=true)  
